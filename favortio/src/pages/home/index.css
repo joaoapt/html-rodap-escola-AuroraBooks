@@ -1,0 +1,64 @@
+*
+{
+
+}
+footer{
+    display: flex;
+    align-items: flex-end;
+
+    background: linear-gradient(280.5deg, #1A1D53 0%, #0E102E 30%, #000 100%);
+}
+
+.conterne-rodapé
+{
+    display: flex;
+}
+
+.logo
+{
+ width: 100px;
+}
+
+.texto-rodapé
+{
+
+}
+
+h1
+{
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2
+{
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+}
+
+p
+{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.botão
+{
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    background: none;
+    border: #fff 2px solid;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 3px 14px;
+    cursor: pointer;
+    font-size: 22px;
+    transition:all 0.6s ease-in-out 0.05s;
+}
+
+.botão:hover{
+    transition:all 0.5s ease-in-out 0s;
+    color: #1CB284;
+    border: 2px  solid #1CB284;
+    border-radius:5px;
+}
